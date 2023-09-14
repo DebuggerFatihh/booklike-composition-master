@@ -1,0 +1,86 @@
+{
+  "users": [
+    {
+      "username": "a",
+      "fullname": "Emirhan",
+      "password": "39d55b355f31dd2a2640c03c32cde5082173c1d3",
+      "id": 1
+    },
+    {
+      "username": "af1",
+      "fullname": "af1",
+      "password": "1b27ce06724cdd2c4bde584530b5f495c8351312",
+      "id": 2
+    }
+  ],
+  "user_likes": [
+    {
+      "userId": 2,
+      "bookmarkId": 1,
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "bookmarkId": 2,
+      "id": 2
+    }
+  ],
+  "user_bookmarks": [
+    {
+      "userId": 2,
+      "bookmarkId": 1,
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "bookmarkId": 2,
+      "id": 2
+    }
+  ],
+  "bookmarks": [
+    {
+      "title": "deneme",
+      "url": "deneme",
+      "categoryId": 1,
+      "description": "deneme",
+      "userId": 1,
+      "created_at": "2023-08-21T11:32:48.521Z",
+      "id": 1
+    },
+    {
+      "title": "af1",
+      "url": "af1",
+      "categoryId": 3,
+      "description": "af1",
+      "userId": 2,
+      "created_at": "2023-09-01T14:32:57.185Z",
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "name": "Vue.js",
+      "id": 1
+    },
+    {
+      "name": "React.js",
+      "id": 2
+    },
+    {
+      "name": "Frontend",
+      "id": 3
+    },
+    {
+      "name": "Backend",
+      "id": 4
+    },
+    {
+      "name": "Cloud",
+      "id": 5
+    },
+    {
+      "name": "Sosyal",
+      "id": 6
+    }
+  ]
+}
